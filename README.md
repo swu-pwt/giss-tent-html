@@ -12,5 +12,5 @@ TODO
 
 KONTRIBUTOR
 1. Rayhan
-2. Monik
+2. Monika Dian Utami
 3. Yusuf
