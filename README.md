@@ -9,3 +9,6 @@ TODO
 2. Create Page About Us
 3. Create Page Product
 4. Create Page Contact
+
+KONTRIBUTOR
+1. Rayhan
