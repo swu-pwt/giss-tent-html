@@ -96,7 +96,10 @@ body {
 }
 
 .break-section-lg {
-    margin-top: 200px;
+    margin-top: 0px;
+    background-color: #F0F7FF;
+    padding-top: 5rem;
+    padding-left: 0rem;
 }
 
 .service {
