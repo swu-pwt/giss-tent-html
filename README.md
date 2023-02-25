@@ -16,5 +16,5 @@ KONTRIBUTOR
 1. Rayhan
 2. Monika Dian Utami
 3. Muhammad yusuf
-4. Ronan Gimnastiar
+4. Ronan Gimnastiar STE202102262
 5. Diah Mawar Isna
