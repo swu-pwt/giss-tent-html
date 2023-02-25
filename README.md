@@ -14,3 +14,4 @@ KONTRIBUTOR
 1. Rayhan
 2. Monika Dian Utami
 3. Muhammad yusuf
+4. Diah Mawar Isna
