@@ -17,3 +17,4 @@ KONTRIBUTOR
 2. Monika Dian Utami
 3. Muhammad yusuf
 4. Ronan Gimnastiar
+5. Diah Mawar Isna
